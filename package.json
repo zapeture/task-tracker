@@ -21,6 +21,7 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "jest": "^27.0.6",
     "mongoose": "^5.13.5",
     "mongoose-date-format": "^1.2.0",
     "tiny-timer": "^1.6.0",
